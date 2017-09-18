@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".esdoc" type="JSON" />
       <mapping pattern=".jestrc" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
